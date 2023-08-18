@@ -129,14 +129,6 @@ tournament_selection_size = 2
 # 150 Generationen für 20
 # 2500 für 100
 
-
-'''
-
-Hier kann der Pfad angegeben werden, für die Daten
-
-'''
-
-
 file_path = r''
 writer = pd.ExcelWriter(file_path, engine='xlsxwriter')
 

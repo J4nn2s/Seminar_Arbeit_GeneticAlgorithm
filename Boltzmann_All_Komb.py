@@ -131,15 +131,6 @@ tournament_selection_size = 2
 # 150 Generationen für 150
 
 
-'''
-
-Hier kann der Pfad angegeben werden, für die Daten
-
-'''
-
-
-
-
 #%% Initialpopulation
 def generate_population(size):
     population = []

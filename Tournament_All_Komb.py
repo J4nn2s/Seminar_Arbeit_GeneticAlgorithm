@@ -129,8 +129,6 @@ tournament_selection_size = 2
 # 150 Generationen für 20
 # 2500 für 100
 
-file_path = r''
-writer = pd.ExcelWriter(file_path, engine='xlsxwriter')
 
 #%% Initialpopulation
 def generate_population(size):
